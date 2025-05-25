@@ -101,6 +101,6 @@ This project is shared under the MIT License. You can see all the details in the
 If you have any questions, cool ideas, or just want to share your thoughts, feel free to hit us up:
 
 -   GitHub: [drmhmdkse](https://github.com/drmhmdkse)
--   Email: (Pop your email here if you're cool with it!)
+-   Linkedin: https://www.linkedin.com/in/durdumehmetkose 
 
 Happy reading, everyone! 🚀
