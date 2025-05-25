@@ -1,0 +1,9 @@
+This is a sample text file. You can use it to test the fast book reading application. 
+One word will be displayed every second. You can use the slider to adjust the speed.
+Click the "Play" button to start reading. Click the "Stop" button to pause.
+Click the "Reset" button to return to the beginning.
+
+Fast reading can help you train your eye muscles and increase your reading speed.
+With regular practice, you can improve your reading speed and comprehension ability.
+
+Happy reading!
