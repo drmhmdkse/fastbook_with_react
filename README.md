@@ -92,10 +92,6 @@ We'd love for you to help make FastBook even more awesome! Here’s how you can 
 
 Just try to make sure your code fits in with how we've been doing things and add tests if you can. Thanks a bunch!
 
-## The Legal Mumbo Jumbo (License)
-
-This project is shared under the MIT License. You can see all the details in the `LICENSE` file.
-
 ## Got Questions or Ideas?
 
 If you have any questions, cool ideas, or just want to share your thoughts, feel free to hit us up:
